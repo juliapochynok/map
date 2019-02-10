@@ -33,24 +33,13 @@ HTML файл складається з двох головних частин h
 Карта (досліджено 2015 і 2003 роки)![picture](https://drive.google.com/uc?export=view&id=1oz8s5UPSAxwM-m6aCGeSU8GbmbsM3roF)
 
 
+Шар 1![picture](https://drive.google.com/uc?export=view&id=1qyCrQ4PC0AbS0EYBLRLJFk_fl44Mbslw)
 
 
-
-Шар 1
-
+Шар 2![picture](https://drive.google.com/uc?export=view&id=1-3mrHuTjgv5zr8_t13EOHZRO_Ux7xuyg)
 
 
-
-
-
-Шар 2
-
-
-
-
-
-
-Шар 3
+Шар 3![picture](https://drive.google.com/uc?export=view&id=10CInICBmUUi6mVtxaMpWcyjhBJj4KG2G)
 
 
 
