@@ -22,7 +22,7 @@ geographiclib==1.49
 geopy==1.18.1
 guacamole==0.9.2
 html5lib==1.0.1
-httplib2==0.11.3
+httplib2==0.19.0
 idna==2.8
 Jinja2==2.10
 keyring==15.1.0
