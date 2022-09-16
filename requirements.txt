@@ -35,7 +35,7 @@ lazr.uri==1.0.3
 louis==3.6.0
 lxml==4.2.5
 macaroonbakery==1.1.4
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.1.0
 matplotlib==2.2.2
 netifaces==0.10.4
