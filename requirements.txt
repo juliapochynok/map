@@ -4,7 +4,7 @@ beautifulsoup4==4.6.3
 blinker==1.4
 branca==0.3.1
 Brlapi==0.6.7
-certifi==2018.11.29
+certifi==2022.12.7
 chardet==3.0.4
 checkbox-support==0.22
 command-not-found==0.3
